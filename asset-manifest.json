@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/evolveu-react/static/css/main.c6f940a5.chunk.css",
+    "main.js": "/evolveu-react/static/js/main.7ecb86c2.chunk.js",
+    "main.js.map": "/evolveu-react/static/js/main.7ecb86c2.chunk.js.map",
+    "runtime-main.js": "/evolveu-react/static/js/runtime-main.b3052df4.js",
+    "runtime-main.js.map": "/evolveu-react/static/js/runtime-main.b3052df4.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/evolveu-react/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.d7729859.chunk.js": "/evolveu-react/static/js/2.d7729859.chunk.js",
+    "static/js/2.d7729859.chunk.js.map": "/evolveu-react/static/js/2.d7729859.chunk.js.map",
+    "index.html": "/evolveu-react/index.html",
+    "precache-manifest.1b2dad0d458f1ca164c0896a11317f0d.js": "/evolveu-react/precache-manifest.1b2dad0d458f1ca164c0896a11317f0d.js",
+    "service-worker.js": "/evolveu-react/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/evolveu-react/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.c6f940a5.chunk.css.map": "/evolveu-react/static/css/main.c6f940a5.chunk.css.map",
+    "static/js/2.d7729859.chunk.js.LICENSE": "/evolveu-react/static/js/2.d7729859.chunk.js.LICENSE",
+    "static/media/001-home.svg": "/evolveu-react/static/media/001-home.b0be534a.svg",
+    "static/media/002-game.svg": "/evolveu-react/static/media/002-game.4c2748a2.svg",
+    "static/media/003-account.svg": "/evolveu-react/static/media/003-account.0e5cbe3f.svg",
+    "static/media/004-city.svg": "/evolveu-react/static/media/004-city.2bd9ed31.svg",
+    "static/media/005-link.svg": "/evolveu-react/static/media/005-link.abdf1f92.svg",
+    "static/media/006-stack.svg": "/evolveu-react/static/media/006-stack.059ab19d.svg",
+    "static/media/logo.svg": "/evolveu-react/static/media/logo.08cee20e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3052df4.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.d7729859.chunk.js",
+    "static/css/main.c6f940a5.chunk.css",
+    "static/js/main.7ecb86c2.chunk.js"
+  ]
+}
