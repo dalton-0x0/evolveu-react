@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/evolveu-react/precache-manifest.1b2dad0d458f1ca164c0896a11317f0d.js"
+  "/evolveu-react/precache-manifest.aa3799b4ed66a369b5cb40de44315cf0.js"
 );
 
 self.addEventListener('message', (event) => {
